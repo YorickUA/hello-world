@@ -2,4 +2,4 @@
 
 Hello (Hola, Привет) people!!!
 
-I'm Pavlo. I'm begining c++ developer))) ololololo
+I'm Pavlo. I'm begining c++ developer))) 
